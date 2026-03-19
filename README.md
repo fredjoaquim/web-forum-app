@@ -1,26 +1,20 @@
-# ForumHub API
+# Forum Web App
 
-API REST desenvolvida com Spring Boot para gerenciamento de tópicos de fórum.
+## 🚀 Live Demo
+[🔗 Acessar Projeto](https://fredjoaquim.github.io/web-forum-app/)
 
-## Tecnologias
-- Java 21
-- Spring Boot
-- Spring Security
-- JPA / Hibernate
-- H2 Database
+## 📌 Sobre
+Projeto simulando uma aplicação de fórum com foco em organização de interface.
 
-## Endpoints
+## 🛠️ Tecnologias
+- HTML5
+- CSS3
+- JavaScript
 
-GET /topicos
-POST /topicos
-GET /topicos/{id}
-PUT /topicos/{id}
-DELETE /topicos/{id}
+## 🎯 Funcionalidades
+- Interface de posts
+- Estrutura organizada
+- Navegação básica
 
-## Autenticação
-
-A API utiliza autenticação baseada em token Bearer.
-
-## Execução
-
-mvn spring-boot:run
+## 📷 Preview
+![Preview](./assets/preview.png)
