@@ -8,9 +8,9 @@ Aplicação de fórum desenvolvida em Java, focada em estrutura de backend, orga
 
 ## 🛠️ Tecnologias
 - Java
-- (Spring Boot se estiver usando — ajuste aqui)
-- (JPA / Hibernate se tiver)
-- (Banco de dados: H2 / MySQL — ajuste)
+- (Spring Boot)
+- (JPA / Hibernate)
+- (Banco de dados: H2 / MySQL)
 
 ## 🎯 Funcionalidades
 - Criação de tópicos
