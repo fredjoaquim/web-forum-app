@@ -1,20 +1,30 @@
-# Forum Web App
+# Forum Web App (Java)
 
 ## 🚀 Live Demo
-[🔗 Acessar Projeto](https://fredjoaquim.github.io/web-forum-app/)
+⚠️ Projeto backend/local — execução via ambiente Java
 
 ## 📌 Sobre
-Projeto simulando uma aplicação de fórum com foco em organização de interface.
+Aplicação de fórum desenvolvida em Java, focada em estrutura de backend, organização de código e simulação de funcionalidades reais de um sistema web.
 
 ## 🛠️ Tecnologias
-- HTML5
-- CSS3
-- JavaScript
+- Java
+- (Spring Boot se estiver usando — ajuste aqui)
+- (JPA / Hibernate se tiver)
+- (Banco de dados: H2 / MySQL — ajuste)
 
 ## 🎯 Funcionalidades
-- Interface de posts
-- Estrutura organizada
-- Navegação básica
+- Criação de tópicos
+- Listagem de conteúdos
+- Organização por estrutura de dados
+- Arquitetura em camadas (Controller, Service, Repository)
 
-## 📷 Preview
-![Preview](./assets/preview.png)
+## ⚙️ Como executar
+```bash
+# Clonar repositório
+git clone https://github.com/fredjoaquim/web-forum-app
+
+# Entrar na pasta
+cd web-forum-app
+
+# Rodar aplicação (ajuste conforme seu projeto)
+./mvnw spring-boot:run
